@@ -22,9 +22,3 @@ There are two ways to start using this repository:
 **Step 1.** You must position yourself in the proyect folder and execute the following command:
 
 > `yarn run start or npm run start`
-
-<br />
-<br />
-**You must go to the following url to see the project:**
-
-> `http://localhost:8080`
